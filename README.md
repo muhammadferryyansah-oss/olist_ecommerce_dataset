@@ -12,13 +12,14 @@ An end-to-end data analytics project evaluating transactional performance, custo
 
 ---
 
+
 ## Executive Visualizations
 
 ### 1. Executive Market Dynamics Dashboard
-![Brazilian E-Commerce Executive Dashboard](./olist_executive_dashboard.png)
+![](./olist_executive_dashboard.png)
 
 ### 2. Monthly Cohort Retention Heatmap
-![Cohort Retention Matrix](./olist_cohort_retention.png)
+![](./olist_cohort_retention.png)
 ---
 
 ## Tech Stack and Workflow
