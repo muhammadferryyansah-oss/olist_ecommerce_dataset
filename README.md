@@ -13,13 +13,11 @@ An end-to-end data analytics project evaluating transactional performance, custo
 ---
 
 
-## Executive Visualizations
-
 ### 1. Executive Market Dynamics Dashboard
-![](./olist_executive_dashboard.png)
+![](https://raw.githubusercontent.com/muhammadferryyansah-oss/olist_ecommerce_dataset/main/olist_executive_dashboard.png)
 
 ### 2. Monthly Cohort Retention Heatmap
-![](./olist_cohort_retention.png)
+![](https://raw.githubusercontent.com/muhammadferryyansah-oss/olist_ecommerce_dataset/main/olist_cohort_retention.png)
 ---
 
 ## Tech Stack and Workflow
